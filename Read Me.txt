@@ -1,0 +1,3 @@
+Important:
+Create Database with name "sample"
+then import the attached products.sql file
